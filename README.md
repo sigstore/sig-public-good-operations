@@ -1,4 +1,4 @@
-# Project Name
+# sig-public-good-operations
 
 ## Security
 
