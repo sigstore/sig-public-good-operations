@@ -6,9 +6,11 @@ This is the repository for the Sigstore Public Good Operations Special Interest 
 
 We are a group of volunteer engineers from various companies collaborating to operate and maintain the Sigstore Public Good instance.
 
+The public good instance is becoming a crucial piece of infrastructure for the open source software ecosystem. Multiple package managers (such as npm) and high-profile projects (like Kubernetes) use this infrastructure to produce signed builds for distribution worldwide.
+
 ## Projects
 
-The sig-ops group primarily focuses on running the public good infrastructure. While not the primary focus, our work overlaps with the following projects:
+The sig-ops group primarily focuses on running the public good infrastructure. While not the primary focus, our work utilizes or overlaps with the following projects:
 
 - [helm-charts](https://github.com/sigstore/helm-charts)
 - [scaffolding](https://github.com/sigstore/scaffolding)
